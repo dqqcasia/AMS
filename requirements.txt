@@ -1,0 +1,9 @@
+editdistance     # error rate calculation
+joblib           # parallel feature extraction & decoding
+librosa          # feature extraction (for feature extraction only)
+pandas           # data management
+sentencepiece    # sub-word unit encoding (for feature extraction only)
+tensorboardX     # logger & monitor
+torch            # model & learning
+tqdm             # verbosity
+pyyaml             # config parser
